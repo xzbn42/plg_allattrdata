@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="plugin" version="2.5" method="upgrade" group="jshoppingproducts">
+    <name>All atrrs data</name>
+    <creationDate>April 2018</creationDate>
+    <version>1.1.0</version>
+    <author>Alexander Tashi</author>
+    <authorEmail>tashimotor@gmail.com</authorEmail>
+    <authorUrl></authorUrl>
+    <copyright></copyright>
+    <license></license>
+    <description>Get all attributes data(ean, old_price, etc)</description>
+    <files>
+	<filename plugin="allattrdata">allattrdata.php</filename>
+    </files>
+</extension>
